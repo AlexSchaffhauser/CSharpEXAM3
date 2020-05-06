@@ -1,0 +1,16 @@
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.csprojAssemblyReference.cache
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\MainWindow.g.cs
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\App.g.cs
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3_MarkupCompile.cache
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3_MarkupCompile.lref
+C:\Users\AlexSB\source\repos\EXAM3\bin\Debug\EXAM3.exe.config
+C:\Users\AlexSB\source\repos\EXAM3\bin\Debug\EXAM3.exe
+C:\Users\AlexSB\source\repos\EXAM3\bin\Debug\EXAM3.pdb
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\MainWindow.baml
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.g.resources
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.Properties.Resources.resources
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.csproj.GenerateResource.cache
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.exe
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\EXAM3.pdb
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\StudentGrid.g.cs
+C:\Users\AlexSB\source\repos\EXAM3\obj\Debug\StudentGrid.baml

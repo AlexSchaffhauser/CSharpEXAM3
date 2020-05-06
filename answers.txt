@@ -1,0 +1,8 @@
+﻿
+Question 4: What is the difference between code-first approach and database approach in Entity framework?
+
+	Answer 4: A database approach implies that you have an existing database to work off of. A code first approach instead starts with writing your entities first and creating a database using these classes later.
+
+Question 5: What is the MVVM design pattern?
+
+	Answer 5: MVVM, or, Model-View-ViewModel is a pattern that separates design into those 3 states. The model, which contains classes used in the application such as entities. The view which is used to display visual information. And the ViewMoodel which acts as a bridge between the two, allowing elements of the model to be displayed in the view.
